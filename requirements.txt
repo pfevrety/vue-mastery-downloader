@@ -1,0 +1,5 @@
+vimeo_downloader
+seleniumwire
+requests
+lxml
+pychalk
